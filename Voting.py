@@ -1,4 +1,4 @@
-# Projeto 3 - Modelagem de Tópicos do Noticiário Financeiro
+# Modelagem de Tópicos do Noticiário Financeiro
 
 # Versão 1 - Voting
 
